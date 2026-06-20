@@ -13,3 +13,6 @@ Here are something about me 😎:
 - ⚡ Fun fact: When I'm not coding, I'm probably reading horoscopes (Tử Vi), listening to stories, sleeping in, or cuddling with my favorite dogs and cats! 🐶🐈
 > According to my horoscope reading today, whoever reads this entire README is destined to have a bug-free day. Thanks for dropping by! 🌟
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Myngoc05&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myngoc05&layout=compact&theme=radical)
